@@ -1,0 +1,17 @@
+
+/* index.css or global.css */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer {
+  margin-top: auto;
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
